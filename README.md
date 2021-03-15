@@ -9,7 +9,7 @@ Esta API gateway esta desplegada en [Heroku](https://www.heroku.com/) para darle
 * [ML-API-GATWAY](https://ml-api-gateway.herokuapp.com/api/items/ping) 
 
 ### Endpoints  📋
-* _Endpoint para verificar que el servicio se escuentre activo._
+* _Endpoint para verificar que el servicio se encuentre activo._
 ```
 https://ml-api-gateway.herokuapp.com/api/items/ping
 ```
@@ -29,9 +29,15 @@ https://ml-api-gateway.herokuapp.com/api/items/:id
 npm install
 ```
 
+Para correr el proyecto localmente
+
+```
+npm start
+```
+
 ## Despliegue 📦
 
-_El proyecto fue configurado para que tuviera un despleguie automatico en [Heroku](https://www.heroku.com/) una vez se haya hecho push en master._
+_El proyecto fue configurado para que tuviera un despliegue automático en [Heroku](https://www.heroku.com/) una vez se haya hecho push en master._
 
 ## Construido con 🛠️
 
