@@ -1,5 +1,5 @@
 {
-  "name": "bf-mercado-libre",
+  "name": "ml-api-gateway",
   "version": "1.0.0",
   "description": "Prueba tecnica - API Gateway Mercardo Libre",
   "main": "index.js",
